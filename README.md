@@ -235,3 +235,6 @@ This repository serves as the official landing page for GhostBuster. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GhostBuster today!**
+
+---
+**Last updated:** 2026-09-10 08:30:21 UTC
